@@ -1,23 +1,11 @@
 # E-Commerce Platform using Nodejs, Express ,MongoDB & React
 
-We are going to develop a chat application using Express, Websockets. Tough you can use plain websockets but we would be using a library called Socket.io - which is wrapper around Websockets, its super easy to use and provies a fallback to xhr requests until the websocket connection is established.
+E-Commerce website for local store in my area enabling the customers to purchase products online . 
+It features a well-organized product listing with high-quality images, detailed descriptions, and categorization for easy navigation. 
+Users can add items to a shopping cart, view their selections, and proceed to checkout with secure payment options. 
+Additionally, the website includes an admin panel for managing products, orders, and customer information. 
+The admin can update inventory, track sales, and analyze performance through user-friendly dashboards and tools, ensuring efficient management of the entire e-commerce platform.
 
-The frontend-ui is based on Flexbox, no external UI libraries are used, so you can modify it as per your liking.
 
----
 
-## What is Websocket ?
 
-WebSockets are an alternative to HTTP communication in Web Application, they offer full-duplex communication, that is, it is, bi-directional and that means the data can flow in both ways, so it can flow from client to the server and also from server to the client.
-
----
-
-## To start setting up the project
-
-Step 1: Clone the repo
-
-Step 2: cd into the cloned repo and run:
-
-Step 3: Start the chat app (development mode)
-
-Step 4: Start the chat app
